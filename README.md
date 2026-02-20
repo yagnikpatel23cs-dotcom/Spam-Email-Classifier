@@ -11,4 +11,4 @@ An interactive web application that uses Machine Learning to classify emails as 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Spam-Email-Classifier.git](https://github.com/YOUR_USERNAME/Spam-Email-Classifier.git)
+git clone https://github.com/yagnikpatel23cs-dotcom/Spam-Email-Classifier.git
